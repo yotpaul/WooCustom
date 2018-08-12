@@ -1,5 +1,6 @@
 function wc_yotpo_show_rs() {
 	// Manual markup for Yotpo/WooCom By Paul Glushak
+	// Updates & stuff: https://github.com/yotpaul/WooCustom
 	// ---
 	// usage example: if(is_product()) {add_action('woocommerce_before_single_product', 'wc_yotpo_show_rs', 5);}
 	global $product;
